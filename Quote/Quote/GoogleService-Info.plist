@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>172928297497-nem4vmcs4n6tvgm2fvosartdq4275ijs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.172928297497-nem4vmcs4n6tvgm2fvosartdq4275ijs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDCsg4z0l87jpSQfJ94fs7o-Tmhg4TKLc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>172928297497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Rohit-Gaikwad.Quote</string>
+	<key>PROJECT_ID</key>
+	<string>quote-641e3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quote-641e3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:172928297497:ios:6c6bc7abe7e1d435bcd888</string>
+	<key>DATABASE_URL</key>
+	<string>https://quote-641e3.firebaseio.com</string>
+</dict>
+</plist>
